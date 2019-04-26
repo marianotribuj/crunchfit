@@ -5,22 +5,22 @@
       "id":"1",
       "name":"Standing Dumbbell Reverse Curl",
       "overview":"The standing dumbbell reverse curl is a variation of the standing dumbbell curl and an exercise used to strengthen the muscles of the biceps.  The reverse grip is particularly useful in forcing the forearms to become involved in some of the workload.  Bicep isolation work is particularly helpful for those looking to achieve aesthetics and building a balanced physique.",
-      "video":"'../../assets/videos/StandingDumbbellReverseCurl.mp4",
-      "image":"StandingDumbbellReverseCurl.png"
+      "video":"https://firebasestorage.googleapis.com/v0/b/crunchfit.appspot.com/o/StandingDumbbellReverseCurl.mp4?alt=media&token=b5f19d20-446c-4d15-aebc-6cc0e3a85e1a",
+      "image":"https://firebasestorage.googleapis.com/v0/b/crunchfit.appspot.com/o/StandingDumbbellReverseCurl.png?alt=media&token=cb694329-2bc2-4689-8b1e-5fed85cbe037"
     },
     {
       "id":"2",
       "name":"Front Squat",
       "overview":"The front squat is a variation of the squat and an exercise used to build the muscles of the legs. In particular, the front squat will place a lot of emphasis on the quads.  The squat movement pattern is a foundational movement and should be performed by most capable individuals throughout their lives. So, it is important to find a variation that is comfortable for you to perform, and continuously work on it.  You can include the front squat in your leg workouts or full body workouts.",
-      "video":"'../../assets/videos/FrontSquat.mp4",
-      "image":"FrontSquat.png"
+      "video":"https://firebasestorage.googleapis.com/v0/b/crunchfit.appspot.com/o/FrontSquat.mp4?alt=media&token=9a4437d6-cc2e-4dcb-94e9-ec58ce3a25d0",
+      "image":"https://firebasestorage.googleapis.com/v0/b/crunchfit.appspot.com/o/FrontSquat.png?alt=media&token=7fcb06c0-770a-4d37-ad71-906bc50607ce"
     },
     {
       "id":"3",
       "name":"Zottman Curl",
       "overview":"The standing Zottman curl is a variation of the standing dumbbell curl and an exercise used to strengthen the muscles of the biceps.  The Zottman curl utilizes different hand positioning at different portions of the lift to capitalize on the strength of the lifter and maximize arm growth. The first portion, the regular curl, allows the lifter to focus on their bicep strength. The lowering portion, after already using a heavier weight than one would typically use in a dumbbell reverse curl, allows you to overload the forearms.  Bicep isolation work is particularly helpful for those looking to achieve aesthetics and building a balanced physique.",
-      "video":"'../../assets/videos/StandingZottmanCurl.mp4",
-      "image":"StandingZottmanCurl.png"
+      "video":"https://firebasestorage.googleapis.com/v0/b/crunchfit.appspot.com/o/StandingZottmanCurl.mp4?alt=media&token=f581ce25-a2b7-4753-855c-9bd1f68c8fc0",
+      "image":"https://firebasestorage.googleapis.com/v0/b/crunchfit.appspot.com/o/StandingZottmanCurl.png?alt=media&token=6235b977-7c13-40ff-821e-e63b0b7312cb"
     } 
   ]
 }
