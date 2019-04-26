@@ -5,19 +5,22 @@
       "id":"1",
       "name":"Standing Dumbbell Reverse Curl",
       "overview":"The standing dumbbell reverse curl is a variation of the standing dumbbell curl and an exercise used to strengthen the muscles of the biceps.  The reverse grip is particularly useful in forcing the forearms to become involved in some of the workload.  Bicep isolation work is particularly helpful for those looking to achieve aesthetics and building a balanced physique.",
-      "video":"StandingDumbbellReverseCurl.mp4"
+      "video":"StandingDumbbellReverseCurl.mp4",
+      "image":"StandingDumbbellReverseCurl.png"
     },
     {
       "id":"2",
       "name":"Front Squat",
       "overview":"The front squat is a variation of the squat and an exercise used to build the muscles of the legs. In particular, the front squat will place a lot of emphasis on the quads.  The squat movement pattern is a foundational movement and should be performed by most capable individuals throughout their lives. So, it is important to find a variation that is comfortable for you to perform, and continuously work on it.  You can include the front squat in your leg workouts or full body workouts.",
-      "video":"FrontSquat.mp4"
+      "video":"FrontSquat.mp4",
+      "image":"FrontSquat.png"
     },
     {
       "id":"3",
       "name":"Zottman Curl",
       "overview":"The standing Zottman curl is a variation of the standing dumbbell curl and an exercise used to strengthen the muscles of the biceps.  The Zottman curl utilizes different hand positioning at different portions of the lift to capitalize on the strength of the lifter and maximize arm growth. The first portion, the regular curl, allows the lifter to focus on their bicep strength. The lowering portion, after already using a heavier weight than one would typically use in a dumbbell reverse curl, allows you to overload the forearms.  Bicep isolation work is particularly helpful for those looking to achieve aesthetics and building a balanced physique.",
-      "video":"StandingZottmanCurl.mp4"
+      "video":"StandingZottmanCurl.mp4",
+      "image":"StandingZottmanCurl.png"
     } 
   ]
 }
